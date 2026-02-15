@@ -1,0 +1,1 @@
+# Static Template 3
